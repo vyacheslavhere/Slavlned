@@ -5,7 +5,8 @@ Im programmer from Uzbekiston! 🎇
 ###
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slavlned&show_icons=true&locale=en" alt="slavlned" /></p>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slavlned&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slavlned&show_icons=true&locale=en" alt="slavlned" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slavlned&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###

@@ -2,7 +2,9 @@
 
 Im programmer from Uzbekiston! 🎇
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slavlned" alt="slavlned" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slavlned&show_icons=true&locale=en" alt="slavlned" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slavlned&" alt="slavlned" /></p>
 
 # About me 🤘
 - 🔭 I'm currently working on WATT programming language.

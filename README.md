@@ -2,6 +2,11 @@
 
 Im programmer from Uzbekiston! 🎇
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=slavlned&label=Profile%20views&color=0e75b6&style=flat" alt="slavlned" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slavlned" alt="slavlned" /></a> </p>
+
+# About me 🤘
 - 🔭 I'm currently working on WATT programming language.
 - 🏫 I'm currently learning C.
 - 🎯 Want to make WATT better.
